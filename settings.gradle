@@ -1,0 +1,4 @@
+include ':mtcnn4android'
+include ':app'
+rootProject.name = "My Face Verification"
+
